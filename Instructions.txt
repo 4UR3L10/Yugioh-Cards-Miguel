@@ -1,0 +1,27 @@
+Yugioh Card Vasic (si con V)
+
+********************************************************************************************************************
+Class "Card"
+    String name;
+    String type;
+    int level;
+    int attack;
+    int defense; 
+
+Objectives: 
+    - class must be able to create yugioh monster, spell & trap cards with the given data fields. (XD)
+    - class must be able to retrieve a value from any data field and update the value of any data field.
+    - class must be able to show all properties of each card.
+********************************************************************************************************************
+********************************************************************************************************************
+Class "Deck" ((Data field or class variable)for this class is given using logic)
+    the only data field: Somehow Deck
+
+Objectives: 
+    - class must be able to add cards to the deck.
+    - class must be able to show all names of the cards in the deck.
+    (Extra Credit)- class must be able to delete cards from the deck.    
+********************************************************************************************************************
+
+
+- In you tester class: create at least one card of each, add them to the deck and Show the deck.
